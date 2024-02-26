@@ -1,4 +1,4 @@
-Below is a template for a GitHub README file for the test automation project:
+
 
 ---
 
